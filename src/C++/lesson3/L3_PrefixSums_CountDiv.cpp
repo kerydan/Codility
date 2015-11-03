@@ -20,18 +20,24 @@ expected worst-case time complexity is O(1);
 expected worst-case space complexity is O(1).
 */
 
-#include <vector>
-
 using namespace std;
 
 int solution(int A, int B, int K) {
-    return -1;
+    long long high = K*(B / K);
+    if (high < A)
+        return 0;
+    long long low = A % K + K*(A / K);
+    return (high - low) / K + 1;
 }
 
 int main()
 {
-    vector<int> A{ 1, 3, 1, 4, 2, 3, 5, 4 };
- //   auto time = solution(5, A);
+    auto res1 = solution(6, 11, 2);
+    auto res2 = solution(11, 20, 17);
+    auto res3 = solution(11, 345, 17);
+    auto res4 = solution(0, 0, 11);
+    auto res5 = solution(1, 1, 11);
+    auto res6 = solution(10, 10, 20);
 
     return 0;
 }
