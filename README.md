@@ -7,3 +7,6 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) in C++
 - [x] [TapeEquilibrium](https://github.com/kerydan/Codility/blob/master/src/C++/lesson1/L1_TimeComplexity_TapeEquilibrium.cpp)
 
 
+##Lesson 2 [Counting Elements](https://codility.com/programmers/lessons/2)
+- [x] [FrogRiverOne](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_FrogRiverOne.cpp)
+

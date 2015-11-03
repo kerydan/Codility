@@ -49,15 +49,28 @@ Elements of input arrays can be modified.
 */
 
 #include <vector>
+
 using namespace std;
 
-int solution(vector<int> &A) {
-    return 1;
+int solution(const int X, vector<int> &A) {
+    vector<int> pos(X, 0);
+    int covered = 0;
+    for (auto i = 0; i < A.size(); i++){
+        if (pos[A[i]-1] == 0){
+            pos[A[i]-1] = 1;
+            covered++;
+            if (covered == X)
+                return i;
+        }
+
+    }
+    return -1;
 }
+
 int main()
 {
-    vector<int> A{ 3, 1, 2, 4, 3 };
-    solution(A);
+    vector<int> A{ 1, 3, 1, 4, 2, 3, 5, 4 };
+    auto time = solution(5, A);
 
     return 0;
 }
