@@ -1,43 +1,63 @@
 ﻿/*
+A non-empty zero-indexed array A consisting of N integers is given. The product of triplet (P, Q, R) equates to A[P] * A[Q] * A[R] (0 ≤ P < Q < R < N).
+
+For example, array A such that:
+
+A[0] = -3
+A[1] = 1
+A[2] = 2
+A[3] = -2
+A[4] = 5
+A[5] = 6
+contains the following example triplets:
+
+(0, 1, 2), product is −3 * 1 * 2 = −6
+(1, 2, 4), product is 1 * 2 * 5 = 10
+(2, 4, 5), product is 2 * 5 * 6 = 60
+Your goal is to find the maximal product of any triplet.
+
 Write a function:
 
-int solution(int A, int B, int K);
+int solution(int A[], int N);
 
-that, given three integers A, B and K, returns the number of integers within the range [A..B] that are divisible by K, i.e.:
+that, given a non-empty zero-indexed array A, returns the value of the maximal product of any triplet.
 
-{ i : A ≤ i ≤ B, i mod K = 0 }
+For example, given array A such that:
 
-For example, for A = 6, B = 11 and K = 2, your function should return 3, because there are three numbers divisible by 2 within the range [6..11], namely 6, 8 and 10.
+A[0] = -3
+A[1] = 1
+A[2] = 2
+A[3] = -2
+A[4] = 5
+A[5] = 6
+the function should return 60, as the product of triplet (2, 4, 5) is maximal.
 
 Assume that:
 
-A and B are integers within the range [0..2,000,000,000];
-K is an integer within the range [1..2,000,000,000];
-A ≤ B.
+N is an integer within the range [3..100,000];
+each element of array A is an integer within the range [−1,000..1,000].
 Complexity:
 
-expected worst-case time complexity is O(1);
-expected worst-case space complexity is O(1).
+expected worst-case time complexity is O(N*log(N));
+expected worst-case space complexity is O(1), beyond input storage (not counting the storage required for input arguments).
+Elements of input arrays can be modified.
 */
-
+#include <vector>
+#include <algorithm>
 using namespace std;
 
-int solution(int A, int B, int K) {
-    long long high = K*(B / K);
-    if (high < A)
-        return 0;
-    long long low = A % K + K*(A / K);
-    return (high - low) / K + 1;
+int solution(vector<int> &A) {
+    sort(A.begin(), A.end());
+    int size = A.size();
+    long long sum1 = A[size - 1] * A[size - 2] * A[size - 3];
+    long long sum2 = A[0] * A[1] * A[size - 1];
+    return sum1>sum2 ? sum1:sum2; 
 }
 
 int main()
 {
-    auto res1 = solution(6, 11, 2);
-    auto res2 = solution(11, 20, 17);
-    auto res3 = solution(11, 345, 17);
-    auto res4 = solution(0, 0, 11);
-    auto res5 = solution(1, 1, 11);
-    auto res6 = solution(10, 10, 20);
+    vector<int> A{ -3, 1, 2, -2, 5 };
+    auto res = solution(A);
 
     return 0;
 }
