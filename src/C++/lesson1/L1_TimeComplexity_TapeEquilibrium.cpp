@@ -1,35 +1,4 @@
 ﻿/*
-    Task 1.1 from codility.com. The detailed task description can be found under main() function body
-*/
-
-#include <iostream>
-#include <vector>
-#include <numeric>
-using namespace std;
-
-int solution(vector<int> &A) {
-    int rightSum = accumulate(A.begin(), A.end(), 0)-A[0];
-    int leftSum = A[0];
-    int minDiff = abs(rightSum - leftSum);
-    for (auto i = 1; i + 1 < A.size(); i++){
-        leftSum += A[i];
-        rightSum -= A[i];
-        int diff = abs(rightSum - leftSum);
-        minDiff = diff < minDiff ? diff : minDiff;
-    }
-    return minDiff;
-}
-
-int main()
-{
-    vector<int> A{ 3, 1, 2, 4, 3 };
-    solution(A);
-
-	return 0;
-}
-
-
-/*
 A non-empty zero-indexed array A consisting of N integers is given. Array A represents numbers on a tape.
 
 Any integer P, such that 0 < P < N, splits this tape into two non-empty parts: A[0], A[1], ..., A[P − 1] and A[P], A[P + 1], ..., A[N − 1].
@@ -77,3 +46,32 @@ expected worst-case space complexity is O(N), beyond input storage (not counting
 Elements of input arrays can be modified.
 
 */
+
+#include <iostream>
+#include <vector>
+#include <numeric>
+using namespace std;
+
+int solution(vector<int> &A) {
+    int rightSum = accumulate(A.begin(), A.end(), 0)-A[0];
+    int leftSum = A[0];
+    int minDiff = abs(rightSum - leftSum);
+    for (auto i = 1; i + 1 < A.size(); i++){
+        leftSum += A[i];
+        rightSum -= A[i];
+        int diff = abs(rightSum - leftSum);
+        minDiff = diff < minDiff ? diff : minDiff;
+    }
+    return minDiff;
+}
+
+int main()
+{
+    vector<int> A{ 3, 1, 2, 4, 3 };
+    int minDiff = solution(A);
+    cout << "min difference is " << minDiff << endl;
+
+	return 0;
+}
+
+
