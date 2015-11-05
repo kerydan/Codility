@@ -16,3 +16,6 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) in C++
 
 ##Lesson 4 [Sorting](https://codility.com/programmers/lessons/4)
 - [x] [MaxProductOfThree](https://github.com/kerydan/Codility/blob/master/src/C++/lesson4/L4_Sorting_MaxProductOfThree.cpp)
+
+##Lesson 5 [Stacks and Queues](https://codility.com/programmers/lessons/5)
+- [x] [Nesting](https://github.com/kerydan/Codility/blob/master/src/C++/lesson4/L5_StacksAndQueues_Nesting_StacksAndQueues_Nesting.cpp)
