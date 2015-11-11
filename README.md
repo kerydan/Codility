@@ -1,4 +1,4 @@
-Codility
+﻿Codility
 ========
 
 My solutions to [Codility](https://codility.com/programmers/lessons/) in C++
@@ -19,3 +19,16 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) in C++
 
 ##Lesson 5 [Stacks and Queues](https://codility.com/programmers/lessons/5)
 - [x] [Nesting](https://github.com/kerydan/Codility/blob/master/src/C++/lesson5/L5_StacksAndQueues_Nesting.cpp)
+
+##Lesson 6 [Leader](https://codility.com/programmers/lessons/6)
+- [x] [Dominator](https://github.com/kerydan/Codility/blob/master/src/C++/lesson6/L6_Leader_Dominator.cpp)
+
+##Lesson 7 [Maximum Slice Problem](https://codility.com/programmers/lessons/7)
+- [x] [MaxDoubleSliceSum](https://github.com/kerydan/Codility/blob/master/src/C++/lesson7/L7_MSP_MaxDoubleSliceSum.cpp)
+
+##Lesson 8 [Prime and composite numbers](https://codility.com/programmers/lessons/8)
+- [x] [MinPerimeterRectangle](https://github.com/kerydan/Codility/blob/master/src/C++/lesson8/L8_PACN_MinPerimeterRectangle.cpp)
+
+
+
+
