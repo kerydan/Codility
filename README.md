@@ -16,6 +16,7 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) in C++
 
 ##Lesson 3 [Prefix Sums](https://codility.com/programmers/lessons/3)
 - [x] [CountDiv](https://github.com/kerydan/Codility/blob/master/src/C++/lesson3/L3_PrefixSums_CountDiv.cpp)
+- [x] [PassingCars](https://github.com/kerydan/Codility/blob/master/src/C++/lesson3/L3_PrefixSums_PassingCars.cpp)
 
 ##Lesson 4 [Sorting](https://codility.com/programmers/lessons/4)
 - [x] [MaxProductOfThree](https://github.com/kerydan/Codility/blob/master/src/C++/lesson4/L4_Sorting_MaxProductOfThree.cpp)
