@@ -31,14 +31,13 @@ Elements of input arrays can be modified.
 
 using namespace std;
 
-int solution(const int X, vector<int> &A) {
+int solution(vector<int> &A) {
     unordered_set<int> s{ A.begin(), A.end() };
     for (int i = 1; i <= A.size(); i ++ ){
         if (s.count(i) == 0)
             return i;
     }
     return A.size() + 1;
-    return -1;
 }
 
 int main()
