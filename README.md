@@ -10,6 +10,8 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) in C++
 ##Lesson 2 [Counting Elements](https://codility.com/programmers/lessons/2)
 - [x] [FrogRiverOne](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_FrogRiverOne.cpp)
 - [x] [MissingInteger](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_MissingInteger.cpp)
+- [x] [MaxCounters](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_MaxCounters.cpp)
+
 
 
 ##Lesson 3 [Prefix Sums](https://codility.com/programmers/lessons/3)
