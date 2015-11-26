@@ -39,6 +39,7 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) in C++
 
 ##Lesson 13 [Caterpillar method](https://codility.com/programmers/lessons/13)
 - [x] [AbsDistinct](https://github.com/kerydan/Codility/blob/master/src/C++/lesson13/L13_Caterpillar_AbsDistinct.cpp)
+- [x] [MinAbsSumOfTwo](https://github.com/kerydan/Codility/blob/master/src/C++/lesson13/L13_Caterpillar_MinAbsSumOfTwo.cpp)
 
 
 
