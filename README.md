@@ -35,8 +35,10 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) in C++
 - [x] [MaxDoubleSliceSum](https://github.com/kerydan/Codility/blob/master/src/C++/lesson7/L7_MSP_MaxDoubleSliceSum.cpp)
 
 ##Lesson 8 [Prime and composite numbers](https://codility.com/programmers/lessons/8)
-- [x] [MinPerimeterRectangle](https://github.com/kerydan/Codility/blob/master/src/C++/lesson8/L8_PACN_MinPerimeterRectangle.cpp)
+- [ ] [MinPerimeterRectangle](https://github.com/kerydan/Codility/blob/master/src/C++/lesson8/L8_PACN_MinPerimeterRectangle.cpp)
 
+##Lesson 13 [Caterpillar method](https://codility.com/programmers/lessons/13)
+- [x] [AbsDistinct](https://github.com/kerydan/Codility/blob/master/src/C++/lesson13/L13_Caterpillar_AbsDistinct.cpp)
 
 
 
