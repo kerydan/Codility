@@ -20,20 +20,20 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) in C++
 | zebra stripes | are neat      |    $1 |
 | ze stripes | are zasneat|    $1 |
 
-
+| | | |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 | ze stripes | are zasneat|    $1 |
-
+ | | | |
 asd | ------------- |:-------------:| -----:|
 ss | col 3 is      | right-aligned | $1600 |
 s| col 2 is      | centered      |   $12 |
 asdasdf| zebra stripes | are neat      |    $1 |
 
 
-
+| | | | 
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
