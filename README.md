@@ -13,7 +13,14 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) in C++
 - [x] [MaxCounters](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_MaxCounters.cpp)
 
 - [x] - [x] [x]
+-[x]
+
 [x]
+
+-[x]
+
+- [x]  1 [x]
+
 |       |           |   |
 | ------------- |:-------------:| -----:|
 | - [x] FrogRiverOne   | - [x] [C++](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_FrogRiverOne.cpp) | - [ ] [Python](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_FrogRiverOne.cpp) |
