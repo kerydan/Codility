@@ -16,9 +16,9 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) in C++
 |       |           |   |
 | ------------- |:-------------:| -----:|
 | - [x] FrogRiverOne   | - [x] [C++](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_FrogRiverOne.cpp) | - [ ] [Python](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_FrogRiverOne.cpp) |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-| ze stripes | are zasneat|    $1 |
+|- [x]      | centered      |   $12 |
+|[x] | are neat      |    $1 |
+- [x]| ze stripes | are zasneat|    $1 |
 
 | | | |
 | ------------- |:-------------:| -----:|
