@@ -22,8 +22,8 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) in C++
 
 | | | |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| col 3 is      | [Counting Elements](https://codility.com/programmers/lessons/2) | $1600 |
+| col 2 is      | [Counting Elements](https://codility.com/programmers/lessons/2)      |  [Counting Elements](https://codility.com/programmers/lessons/2) |
 | zebra stripes | are neat      |    $1 |
 | ze stripes | are zasneat|    $1 |
  
