@@ -13,6 +13,13 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) in C++
 - [x] [MaxCounters](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_MaxCounters.cpp) | as |
 
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| ze stripes | are zasneat|    $1 |
+
 
 ##Lesson 3 [Prefix Sums](https://codility.com/programmers/lessons/3)
 - [x] [CountDiv](https://github.com/kerydan/Codility/blob/master/src/C++/lesson3/L3_PrefixSums_CountDiv.cpp)
