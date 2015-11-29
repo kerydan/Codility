@@ -12,45 +12,6 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) in C++
 - [x] [MissingInteger](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_MissingInteger.cpp)
 - [x] [MaxCounters](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_MaxCounters.cpp)
 
-- [x] - [x] [x]
--[x]
-
-[x]
-
--[x]
-
-- [x]  1 [x]
-
-|       |           |   |
-| ------------- |:-------------:| -----:|
-| - [x] FrogRiverOne   | - [x] [C++](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_FrogRiverOne.cpp) | - [ ] [Python](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_FrogRiverOne.cpp) |
-|- [x]      | centered      |   $12 |
-|[x] | are neat      |    $1 |
-- [x]| ze stripes | are zasneat|    $1 |
-
-| | | |
-| ------------- |:-------------:| -----:|
-| col 3 is      | [Counting Elements](https://codility.com/programmers/lessons/2) | $1600 |
-| col 2 is      | [Counting Elements](https://codility.com/programmers/lessons/2)      |  [Counting Elements](https://codility.com/programmers/lessons/2) |
-| zebra stripes | are neat      |    $1 |
-| ze stripes | are zasneat|    $1 |
- 
- 
- | | | |
- asd | ------------- |:-------------:| -----:|
-ss | col 3 is      | right-aligned | $1600 |
-s| col 2 is      | centered      |   $12 |
-asdasdf| zebra stripes | are neat      |    $1 |
-
-
-| | | | 
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-| ze stripes | are zasneat|    $1 |
-
-
-
 
 ##Lesson 3 [Prefix Sums](https://codility.com/programmers/lessons/3)
 - [x] [CountDiv](https://github.com/kerydan/Codility/blob/master/src/C++/lesson3/L3_PrefixSums_CountDiv.cpp)
@@ -60,7 +21,6 @@ asdasdf| zebra stripes | are neat      |    $1 |
 ##Lesson 4 [Sorting](https://codility.com/programmers/lessons/4)
 - [x] [MaxProductOfThree](https://github.com/kerydan/Codility/blob/master/src/C++/lesson4/L4_Sorting_MaxProductOfThree.cpp)
 - [x] [Distinct](https://github.com/kerydan/Codility/blob/master/src/C++/lesson4/L4_Sorting_Distinct.cpp)
-
 
 
 ##Lesson 5 [Stacks and Queues](https://codility.com/programmers/lessons/5)
