@@ -4,7 +4,8 @@
 My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C++ and Python
 
 ##Lesson 1 [Time Complexity](https://codility.com/programmers/lessons/1)
-- [x] TapeEquilibrium  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L1_1_C] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Python][L1_1_P]
+- [x] TapeEquilibrium  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [as][BlaLink1] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Python](https://github.com/kerydan/Codility/blob/master/src/Python/lesson1/L1_TimeComplexity_TapeEquilibrium.py)
+	[BlaLink]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson1/L1_TimeComplexity_TapeEquilibrium.cpp
 
 ##Lesson 2 [Counting Elements](https://codility.com/programmers/lessons/2)
 - [x] [FrogRiverOne](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_FrogRiverOne.cpp)
@@ -39,6 +40,5 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C
 - [x] [MinAbsSumOfTwo](https://github.com/kerydan/Codility/blob/master/src/C++/lesson13/L13_Caterpillar_MinAbsSumOfTwo.cpp)
 
 
-[L1_1_C]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson1/L1_TimeComplexity_TapeEquilibrium.cpp/ ""
-[L1_1_P]: https://github.com/kerydan/Codility/blob/master/src/Python/lesson1/L1_TimeComplexity_TapeEquilibrium.py/ ""
+[BlaLink1]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson1/L1_TimeComplexity_TapeEquilibrium.cpp/ "asd asd"
 
