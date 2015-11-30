@@ -4,8 +4,7 @@
 My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C++ and Python
 
 ##Lesson 1 [Time Complexity](https://codility.com/programmers/lessons/1)
-- [x] TapeEquilibrium  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [as][BlaLink1] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Python](https://github.com/kerydan/Codility/blob/master/src/Python/lesson1/L1_TimeComplexity_TapeEquilibrium.py)
-	[BlaLink]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson1/L1_TimeComplexity_TapeEquilibrium.cpp
+- [x] TapeEquilibrium  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [text1][BlaLink1] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Python](https://github.com/kerydan/Codility/blob/master/src/Python/lesson1/L1_TimeComplexity_TapeEquilibrium.py)
 
 ##Lesson 2 [Counting Elements](https://codility.com/programmers/lessons/2)
 - [x] [FrogRiverOne](https://github.com/kerydan/Codility/blob/master/src/C++/lesson2/L2_CountingElements_FrogRiverOne.cpp)
@@ -38,6 +37,9 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C
 ##Lesson 13 [Caterpillar method](https://codility.com/programmers/lessons/13)
 - [x] [AbsDistinct](https://github.com/kerydan/Codility/blob/master/src/C++/lesson13/L13_Caterpillar_AbsDistinct.cpp)
 - [x] [MinAbsSumOfTwo](https://github.com/kerydan/Codility/blob/master/src/C++/lesson13/L13_Caterpillar_MinAbsSumOfTwo.cpp)
+
+
+[BlaLink2]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson1/L1_TimeComplexity_TapeEquilibrium.cpp/ "asd asd"
 
 
 [BlaLink1]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson1/L1_TimeComplexity_TapeEquilibrium.cpp/ "asd asd"
