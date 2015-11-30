@@ -1,10 +1,10 @@
 ﻿Codility
 ========
 
-My solutions to [Codility](https://codility.com/programmers/lessons/) in C++
+My solutions to [Codility](https://codility.com/programmers/lessons/) in C++ and Python
 
 ##Lesson 1 [Time Complexity](https://codility.com/programmers/lessons/1)
-- [x] [TapeEquilibrium](https://github.com/kerydan/Codility/blob/master/src/C++/lesson1/L1_TimeComplexity_TapeEquilibrium.cpp)
+- [x] TapeEquilibrium  [C++](https://github.com/kerydan/Codility/blob/master/src/C++/lesson1/L1_TimeComplexity_TapeEquilibrium.cpp)  [Python](https://github.com/kerydan/Codility/blob/master/src/Python/lesson1/L1_TimeComplexity_TapeEquilibrium.py)
 
 
 ##Lesson 2 [Counting Elements](https://codility.com/programmers/lessons/2)
