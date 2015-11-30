@@ -39,9 +39,5 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C
 - [x] [MinAbsSumOfTwo](https://github.com/kerydan/Codility/blob/master/src/C++/lesson13/L13_Caterpillar_MinAbsSumOfTwo.cpp)
 
 
-[BlaLink2]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson1/L1_TimeComplexity_TapeEquilibrium.cpp/ "asd asd"
-
-
-[BlaLink1]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson1/L1_TimeComplexity_TapeEquilibrium.cpp/
 [L1_1_C]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson1/L1_TimeComplexity_TapeEquilibrium.cpp/
 
