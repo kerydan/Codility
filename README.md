@@ -36,7 +36,7 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C
 
 ##Lesson 11 [Fibonacci numbers](https://codility.com/programmers/lessons/11)
 - [x] Ladder  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L11_1_C] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Python][L11_1_P]
-- [ ] FibFrog  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L12_1_C] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Python][L12_1_P]
+- [ ] FibFrog  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L11_2_C] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Python][L11_2_P]
 
 
 ##Lesson 13 [Caterpillar method](https://codility.com/programmers/lessons/13)
