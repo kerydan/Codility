@@ -1,7 +1,7 @@
 ﻿Codility
 ========
 
-Test My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C++ and Python
+My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C++ and Python
 
 ##Lesson 3 [Time Complexity](https://codility.com/programmers/lessons/1)
 - [x] TapeEquilibrium  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L1_1_C] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Python][L1_1_P]
@@ -46,7 +46,7 @@ Test My solutions to [Codility](https://codility.com/programmers/lessons/) tasks
 ##Lesson 90 [Tasks from Indeed Prime 2016 challenge](https://codility.com/programmers/lessons/19/)
 - [ ] Painless: DwarfsRafting  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L90_1_CS] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C#][L90_1_CS]
 - [ ] Respectable: RectangleBuilderGreaterArea  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L90_2_CS] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C#][L90_2_CS]
-Else
+
 
 
 [L1_1_C]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson1/L1_TimeComplexity_TapeEquilibrium.cpp/
