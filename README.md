@@ -1,7 +1,7 @@
 ﻿Codility
 ========
 
-My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C++ and Python
+Test My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C++ and Python
 
 ##Lesson 3 [Time Complexity](https://codility.com/programmers/lessons/1)
 - [x] TapeEquilibrium  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L1_1_C] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Python][L1_1_P]
