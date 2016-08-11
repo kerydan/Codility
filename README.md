@@ -41,7 +41,6 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C
 
 ##Lesson 15 [Caterpillar method](https://codility.com/programmers/lessons/13)
 - [x] [Painless: AbsDistinct](https://github.com/kerydan/Codility/blob/master/src/C++/lesson15/L15_Caterpillar_AbsDistinct.cpp)
-- [ ] [Respectable: MinAbsSumOfTwo](https://github.com/kerydan/Codility/blob/master/src/C++/lesson15/L15_Caterpillar_MinAbsSumOfTwo.cpp)
 - [ ] Respectable: MinAbsSumOfTwo  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L15_2_C] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C#][L15_2_CS]
 
 ##Lesson 90 [Tasks from Indeed Prime 2016 challenge](https://codility.com/programmers/lessons/19/)
@@ -58,8 +57,8 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C
 [L13_2_C]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson11/L11_Fibonacci_FibFrog.cpp/
 [L13_2_P]: https://github.com/kerydan/Codility/blob/master/src/Python/lesson11/L11_Fibonacci_FibFrog.py/
 
-[L15_2_C]: (https://github.com/kerydan/Codility/blob/master/src/C++/lesson15/L15_Caterpillar_MinAbsSumOfTwo.cpp
-[L15_2_CS]: (https://github.com/kerydan/Codility/blob/master/src/C#/lesson15/L15_Caterpillar_MinAbsSumOfTwo.cs
+[L15_2_C]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson15/L15_Caterpillar_MinAbsSumOfTwo.cpp
+[L15_2_CS]: https://github.com/kerydan/Codility/blob/master/src/C#/lesson15/L15_Caterpillar_MinAbsSumOfTwo.cs
 
 [L90_1_C]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson90/L90_DwarfRafting.cpp/
 [L90_1_CS]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson90/L90_DwarfRafting.cs/
