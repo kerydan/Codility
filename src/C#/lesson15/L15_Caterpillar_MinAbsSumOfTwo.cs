@@ -57,7 +57,7 @@ int solution(vector<int> &A) {
     sort(A.begin(), A.end());
     int i = 0;
     int k = A.size() - 1;
-    int iMin = abs(A.front() + A.front());
+    int iMin = 2*1000*1000*1000;
     while (i<=k){
         iMin = min(iMin, abs(A[i] + A[k]) );
         if (abs(A[i]) < abs(A[k]))

@@ -40,12 +40,13 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C
 
 
 ##Lesson 15 [Caterpillar method](https://codility.com/programmers/lessons/13)
-- [x] [AbsDistinct](https://github.com/kerydan/Codility/blob/master/src/C++/lesson13/L13_Caterpillar_AbsDistinct.cpp)
-- [x] [MinAbsSumOfTwo](https://github.com/kerydan/Codility/blob/master/src/C++/lesson13/L13_Caterpillar_MinAbsSumOfTwo.cpp)
+- [x] [Painless: AbsDistinct](https://github.com/kerydan/Codility/blob/master/src/C++/lesson15/L15_Caterpillar_AbsDistinct.cpp)
+- [ ] [Respectable: MinAbsSumOfTwo](https://github.com/kerydan/Codility/blob/master/src/C++/lesson15/L15_Caterpillar_MinAbsSumOfTwo.cpp)
+- [ ] Respectable: MinAbsSumOfTwo  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L15_2_C] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C#][L15_2_CS]
 
 ##Lesson 90 [Tasks from Indeed Prime 2016 challenge](https://codility.com/programmers/lessons/19/)
-- [ ] Painless: DwarfsRafting  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L90_1_CS] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C#][L90_1_CS]
-- [ ] Respectable: RectangleBuilderGreaterArea  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L90_2_CS] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C#][L90_2_CS]
+- [ ] Painless: DwarfsRafting  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L90_1_C] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C#][L90_1_CS]
+- [ ] Respectable: RectangleBuilderGreaterArea  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L90_2_C] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C#][L90_2_CS]
 
 
 
@@ -56,6 +57,9 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C
 [L13_1_P]: https://github.com/kerydan/Codility/blob/master/src/Python/lesson11/L11_Fibonacci_Ladder.py/
 [L13_2_C]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson11/L11_Fibonacci_FibFrog.cpp/
 [L13_2_P]: https://github.com/kerydan/Codility/blob/master/src/Python/lesson11/L11_Fibonacci_FibFrog.py/
+
+[L15_2_C]: (https://github.com/kerydan/Codility/blob/master/src/C++/lesson15/L15_Caterpillar_MinAbsSumOfTwo.cpp
+[L15_2_CS]: (https://github.com/kerydan/Codility/blob/master/src/C#/lesson15/L15_Caterpillar_MinAbsSumOfTwo.cs
 
 [L90_1_C]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson90/L90_DwarfRafting.cpp/
 [L90_1_CS]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson90/L90_DwarfRafting.cs/
