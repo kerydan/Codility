@@ -55,19 +55,11 @@ using namespace std;
 
 int solution(vector<int> &A) {
     sort(A.begin(), A.end());
-    if (A.front() >= 0){
-        return abs(A.front() + A.front());
-    }
-    if (A.back() <= 0){
-        return abs(A.back() + A.back());
-    }
     int i = 0;
     int k = A.size() - 1;
     int iMin = abs(A.front() + A.front());
-    while (i<k){
+    while (i<=k){
         iMin = min(iMin, abs(A[i] + A[k]) );
-        if (iMin == 0)
-            return 0;
         if (abs(A[i]) < abs(A[k]))
             k--;
         else
@@ -84,7 +76,6 @@ int main(){
 
     vector<int> A2{ -8, 4, 5, -10, 3 };
     int k2 = solution(A2);
-
 
     int k = 0;
 }
