@@ -58,12 +58,12 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C
 [L13_2_P]: https://github.com/kerydan/Codility/blob/master/src/Python/lesson11/L11_Fibonacci_FibFrog.py/
 
 [L15_2_C]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson15/L15_Caterpillar_MinAbsSumOfTwo.cpp
-[L15_2_CS]: https://github.com/kerydan/Codility/blob/master/src/C#/lesson15/L15_Caterpillar_MinAbsSumOfTwo.cs
+[L15_2_CS]: https://github.com/kerydan/Codility/blob/master/src/CS/lesson15/L15_Caterpillar_MinAbsSumOfTwo.cs
 
 [L90_1_C]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson90/L90_DwarfRafting.cpp/
-[L90_1_CS]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson90/L90_DwarfRafting.cs/
+[L90_1_CS]: https://github.com/kerydan/Codility/blob/master/src/CS/lesson90/L90_DwarfRafting.cs/
 [L90_2_C]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson90/L90_RectBuilder.cpp/
-[L90_2_CS]: https://github.com/kerydan/Codility/blob/master/src/C++/lesson90/L90_RectBuilder.cs/
+[L90_2_CS]: https://github.com/kerydan/Codility/blob/master/src/CS/lesson90/L90_RectBuilder.cs/
 
 
 
