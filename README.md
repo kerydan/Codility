@@ -44,7 +44,7 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C
 - [ ] Respectable: MinAbsSumOfTwo  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L15_2_C] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C#][L15_2_CS]
 
 ##Lesson 90 [Tasks from Indeed Prime 2016 challenge](https://codility.com/programmers/lessons/19/)
-- [ ] Painless: DwarfsRafting  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L90_1_C] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C#][L90_1_CS]
+- [x] Painless: DwarfsRafting  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L90_1_C] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C#][L90_1_CS]
 - [ ] Respectable: RectangleBuilderGreaterArea  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C++][L90_2_C] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [C#][L90_2_CS]
 
 
