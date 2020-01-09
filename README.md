@@ -25,7 +25,7 @@ My solutions to [Codility](https://codility.com/programmers/lessons/) tasks in C
 ##Lesson 7 [Stacks and Queues](https://codility.com/programmers/lessons/5)
 - [x] [Nesting](https://github.com/kerydan/Codility/blob/master/src/C++/lesson5/L5_StacksAndQueues_Nesting.cpp)
 
-##Lesson 8 [Leader](https://codility.com/programmers/lessons/6)
+##Lesson 8 [Leader1](https://codility.com/programmers/lessons/6)
 - [x] [Dominator](https://github.com/kerydan/Codility/blob/master/src/C++/lesson6/L6_Leader_Dominator.cpp)
 
 ##Lesson 9 [Maximum Slice Problem](https://codility.com/programmers/lessons/7)
